@@ -5,7 +5,7 @@ setup(
     version = '0.2.0',
     packages = find_packages(),
     install_requires = [
-        "Flask==0.7.2",
+        "Flask==1.0",
         "Jinja2==2.6",
         "gunicorn"
     ],
