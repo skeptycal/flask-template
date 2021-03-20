@@ -6,7 +6,7 @@ setup(
     packages = find_packages(),
     install_requires = [
         "Flask==0.7.2",
-        "Jinja2==2.6",
+        "Jinja2==2.11.3",
         "gunicorn"
     ],
     url = '',
